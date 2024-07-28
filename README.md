@@ -1,11 +1,7 @@
 # Final-Task-Analisis_Kerja_Bisnis_Kimia_Farma_2020-2023-
 This is my final task project as a Big Analytics intern at Kimia Farma for processing and analysis data in evaluate business project 2020-2023
 
-Syntax BigQuery:
----
-Nama: Mouriverd Laurent
-Kimia Farma _Big Data Anaytics Challenge
-
+---Kimia Farma _Big Data Anaytics Challenge
 SELECT
     t.transaction_id, -- Kode id transaksi dari tabel kf_final_transaction
     t.date, -- Tanggal transaksi dilakukan dari tabel kf_final_transaction
